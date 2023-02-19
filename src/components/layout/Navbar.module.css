@@ -1,0 +1,10 @@
+.list a {
+  color: #ffefef;
+  text-decoration: none;
+}
+
+.list a:hover,
+.list a:active,
+.list a.active {
+  background-color: #b6b5f8;
+}
